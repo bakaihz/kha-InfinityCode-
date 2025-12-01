@@ -1358,4 +1358,5 @@
         // Inicia o game loop
         gameLoop();
     })();
+
 })();
